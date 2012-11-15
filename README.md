@@ -10,5 +10,5 @@ To run:
 and compile on your local machine.
 2. Type java PathNormalizer, then enter.
 3. Type in the file pathway you want to normalize, then press Ctrl + D in UNIX
-or Ctrl + Z then ENTER to simulate the END OF FILE.
+or Ctrl + Z then ENTER in Windows to simulate the END OF FILE.
 4. Output should appear on the standard output.
