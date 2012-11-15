@@ -54,5 +54,3 @@ public class PathNormalizer {
         System.out.println(usage1 + usage2);
     }
 }
-				
-		
